@@ -1,1 +1,3 @@
-# colorpop_phonegap_project
+# ColorPop
+
+Simple phonegap game. Enjoy :)
